@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "MontserratRegular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/MontserratRegular/MontserratRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/MontserratRegular/MontserratRegular.woff") format("woff"), url("../fonts/MontserratRegular/MontserratRegular.ttf") format("truetype"); }
+@font-face {
+  font-family: "MontserratLight";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/MontserratLight/MontserratLight.eot?#iefix") format("embedded-opentype"), url("../fonts/MontserratLight/MontserratLight.woff") format("woff"), url("../fonts/MontserratLight/MontserratLight.ttf") format("truetype"); }
+@font-face {
+  font-family: "MontserratBold";
+  font-style: normal;
+  font-weight: 800;
+  src: url("../fonts/MontserratBold/MontserratBold.eot?#iefix") format("embedded-opentype"), url("../fonts/MontserratBold/MontserratBold.woff") format("woff"), url("../fonts/MontserratBold/MontserratBold.ttf") format("truetype"); }
+@font-face {
+  font-family: "MontserratBlack";
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts/MontserratBlack/MontserratBlack.eot?#iefix") format("embedded-opentype"), url("../fonts/MontserratBlack/MontserratBlack.woff") format("woff"), url("../fonts/MontserratBlack/MontserratBlack.ttf") format("truetype"); }
+@font-face {
+  font-family: "MontserratMedium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/MontserratMedium/MontserratMedium.eot?#iefix") format("embedded-opentype"), url("../fonts/MontserratMedium/MontserratMedium.woff") format("woff"), url("../fonts/MontserratMedium/MontserratMedium.ttf") format("truetype"); }
+@font-face {
+  font-family: "MontserratSemiBold";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/MontserratSemiBold/MontserratSemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/MontserratSemiBold/MontserratSemiBold.woff") format("woff"), url("../fonts/MontserratSemiBold/MontserratSemiBold.ttf") format("truetype"); }
+
+/*# sourceMappingURL=fonts.css.map */
